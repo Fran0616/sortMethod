@@ -1,7 +1,7 @@
 # sortMethod
 The sort() method can sort items on a list in asccending or decending order. By default it sort items in ascending order. To sort list in decending order include the reverse argument and set it to true sort(reverse=True).
 
-[Code:]()
+[Code:](https://github.com/Fran0616/sortMethod/blob/master/sortMethod.py)
 =
 
 ```
